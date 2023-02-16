@@ -5,4 +5,4 @@
 - End Date    : -
 
 ## List of Project:
-- Weather Prediction Using Fixed Effect Regression for Panel Data
+- Weather Prediction Using Fixed Effect Regression for Panel Data (13 february 2023-recently)
